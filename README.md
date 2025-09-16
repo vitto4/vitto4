@@ -13,5 +13,5 @@
 </div>
 <br>
 <div align="right">
-	<sub><code>pic : はなだひょう</code></sub>
+	<sub><code>pic : Cynderela2001</code></sub>
 </div>
